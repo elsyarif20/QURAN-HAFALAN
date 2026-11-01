@@ -1,0 +1,6 @@
+{
+  "name": "Hafalan Quran",
+  "description": "Aplikasi Al-Quran Hafalan lengkap dengan mode setoran, murajaah, kuis, statistik, dan AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
